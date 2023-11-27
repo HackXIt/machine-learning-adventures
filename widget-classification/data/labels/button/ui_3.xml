@@ -1,0 +1,26 @@
+<annotation>
+    <folder>button</folder>
+    <filename>ui_3.jpg</filename>
+    <path>D:\#Git-Stash\machine-learning-adventures\widget-classification\data\raw\button\ui_3.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>250</width>
+        <height>250</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>button</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>162</xmin>
+            <ymin>195</ymin>
+            <xmax>248</xmax>
+            <ymax>248</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -7,6 +7,14 @@
         {
             "name": "CNN Image Classifier",
             "path": "cnn-image-classifier"
+        },
+        {
+            "name": "Widget Classification",
+            "path": "widget-classification"
+        },
+        {
+            "name": "Examples",
+            "path": "examples"
         }
     ],
     "settings": {
@@ -19,6 +27,6 @@
             "**/Thumbs.db": true,
             "**/.vscode/.history": true,
         },
-        "jupyter.logging.level": "verbose"
+        "jupyter.logging.level": "debug"
     }
 }

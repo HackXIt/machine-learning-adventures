@@ -2,6 +2,11 @@
 # vscode
 **/.vscode/.history
 
+# binary files
+*.jpg
+*.jpeg
+*.bin
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
